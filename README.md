@@ -1,7 +1,7 @@
 pocha demos
 ----
 
-[pocha](https://github.com/rlgomes/pocha)是模仿mocha的一个python实现。
+[pocha](https://github.com/rlgomes/pocha)是类似 mocha Python 测试框架。
 
 
 ## pocha的问题
